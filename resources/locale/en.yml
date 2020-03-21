@@ -1,0 +1,25 @@
+askvortsov-categories:
+  admin:
+    basics:
+      categories_label: Categories
+    labels:
+      keep_tags_nav: Keep the tags page link in the nav sidebar?
+      keep_widgets: Keep widgets (such as Friends of Flarum Forum Statistics) in the navbar on the categories page?
+      parent_remove_icon: Hide icons for top-level tags?
+      parent_remove_description: Hide descriptions for top-level tags?
+      parent_remove_stats: Hide stats for top-level tags?
+      parent_remove_last_discussion: Hide most recent discussions for top-level tags?
+    title: Categories Settings
+  forum:
+    categories:
+    header:
+      back_to_categories_tooltip: Back to Categories
+    index:
+      categories_link: Categories
+    meta:
+      categories_title: Categories
+    stat-widgets:
+      discussion_label: Discussions
+      post_label: Posts
+    last_discussion_widget:
+      no_discussions: No Discussions (Yet!)
