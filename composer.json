@@ -1,0 +1,48 @@
+{
+  "name": "morgandusty/flarum-category-russian",
+  "description": "Traditional Category Layout for Flarum",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/UraganHokagi/flarum-category-russian/issues",
+    "source": "https://github.com/UraganHokagi/flarum-category-russian",
+    "forum": "https://discuss.flarum.org/d/23184-flarum-categories"
+  },
+  "require": {
+    "morgandusty/flarum-category-russian": "dev-master",
+    "flarum/core": "^2.5",
+    "flarum/tags": "^2.5"
+  },
+      "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/morgandusty/flarum-category-russian"
+        }
+    ],
+  "authors": [
+    {
+      "name": "Morgan Dusty",
+      "email": "ask@lomaven.xyz",
+      "role": "Translater"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "morgandusty\\flarum-category-russian\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Categories",
+      "category": "theme",
+      "icon": {
+        "name": "fas fa-th-list",
+        "backgroundColor": "#6932D1",
+        "color": "#fff"
+      }
+    }
+  }
+}
