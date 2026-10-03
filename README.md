@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of morgandusty/flarum-category-russian.** Not for installation: use [Packagist](https://packagist.org/packages/morgandusty/flarum-category-russian) or the [upstream repository](https://github.com/morgandusty/flarum-category-russian).
 
-**0** versions archived · Latest: [`2.8`](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.8) · License: `MIT` · Flarum: `^0.1.0-beta.15`
+**33** versions archived · Latest: [`2.8`](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.8) · License: `MIT` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.1` | 2021-01-02 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.1) |
+| `2.2` | 2021-01-02 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.2) |
+| `2.3` | 2021-01-02 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.3) |
+| `2.5` | 2021-01-02 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.5) |
+| `2.6` | 2021-01-02 | `^2.5` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.6) |
+| `2.7` | 2021-01-02 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.7) |
+| `2.8` | 2021-01-02 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v2.8) |
+| `v0.1.0` | 2020-03-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v0.1.0) |
+| `v0.1.1` | 2020-03-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v0.1.1) |
+| `v0.1.10` | 2020-03-23 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/morgandusty-flarum-category-russian/tree/archive/v0.1.10) |
+
+[View all 33 versions](https://github.com/flarchive/morgandusty-flarum-category-russian/tags)
 
 Catalog entry: [packages/morgandusty-flarum-category-russian.json](https://github.com/flarchive/archive-index/blob/main/packages/morgandusty-flarum-category-russian.json)
 
